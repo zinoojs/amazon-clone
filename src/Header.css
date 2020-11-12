@@ -49,6 +49,7 @@
 .header__optionLineTwo {
     font-size: 18px;
     font-weight: 800;
+    /* color: #fff; */
 }
 .header__optionBasket {
     display: flex;
